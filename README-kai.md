@@ -17,3 +17,4 @@
 - I would need to add another sturct of color set in tokens/colors.ts. 
 
 # Key Concepts
+I learned that atomic design helps breaking down a big system into managable components. This is spesifically for UI design, but the idea of thinking of the whole system as components such as atoms, molecules and organisms seems to be applicable for programming in genreal.
